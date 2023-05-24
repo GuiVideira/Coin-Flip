@@ -1,4 +1,5 @@
 # 🪙 Flip Coin Game
+<img src="./assets/thumbnail.png">
 
 ## 💻 Projeto
 Este projeto é um jogo web, responsivo de jogar uma moeda para cima.
