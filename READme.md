@@ -1,4 +1,4 @@
-# 🪙 FLip Coin Game
+# 🪙 Flip Coin Game
 
 ## 💻 Projeto
 Este projeto é um jogo web, responsivo de jogar uma moeda para cima.
