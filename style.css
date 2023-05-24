@@ -59,3 +59,32 @@ button{
     cursor: pointer;
 }
 
+#flip-button:disabled{
+    background-color: rgb(173, 216, 230);
+    color: #fff;
+    border-color: #e1e0ee;
+}
+
+#reset-button{
+    background: #fff;
+    color: black;
+}
+
+@keyframes spin-tails{
+    0%{
+        transform: rotatex(0);
+    }
+    100%{
+        transform: rotateX(1980deg);
+    }
+
+}
+
+@keyframes spin-heads{
+    0%{
+        transform:rotateX(0);
+    }
+    100%{
+        transform:rotateX(2160deg);
+    }
+}
