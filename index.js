@@ -22,10 +22,10 @@ flipBtn.addEventListener("click", ()=>{
     disableButton();
 });
 
-function updateStats(){
-    document.querySelectorAll("#heads-count").textContent = `Heads: ${heads}`;
-    document.querySelectorAll("#tails-count").textContent = `Tails: ${tails}`;
-} 
+function updateStats() {
+    document.querySelector("#heads-count").textContent = `Heads: ${heads}`;
+    document.querySelector("#tails-count").textContent = `Tails: ${tails}`;
+}
 
 function disableButton(){
     flipBtn.disabled = true; 
