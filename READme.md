@@ -9,4 +9,3 @@ Para a realização dessa aplicação foi utilizado:
 - HTML
 - CSS
 - JavaScript
-- Git & Github
